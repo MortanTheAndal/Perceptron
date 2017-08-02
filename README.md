@@ -1,0 +1,2 @@
+# Perceptron
+Class exercise. 
